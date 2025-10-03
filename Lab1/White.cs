@@ -1,5 +1,3 @@
-using System.ComponentModel.Design;
-
 namespace Lab1
 {
     public class White
@@ -124,28 +122,3 @@ namespace Lab1
     }
 
 }
-
-        public bool Task7(int n)
-        {
-            bool answer = false;
-
-            // code here
-
-            // end
-
-            return answer;
-        }
-        public bool Task8(double L, int T, int M)
-        {
-            bool answer = false;
-
-            // code here
-
-            // end
-
-            return answer;
-        }
-    }
-
-}
-
